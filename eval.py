@@ -17,4 +17,4 @@ def calculate_metrics(original_path, processed_path):
     print("-" * 30)
 
 # run
-calculate_metrics('baitap1_anhgoc.jpg', 'anh_ket_qua.png')
+calculate_metrics(r"assert\output.png", r"assert\baitap1_anhgoc.jpg")
